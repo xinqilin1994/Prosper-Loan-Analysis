@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The dataset of [Prosper Loan](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) contains 113,937 rows and 81 columns. 
+> The dataset of [Prosper Loan](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) contains 113,937 rows and 81 columns. [Data Dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554486256024000) can be found here.
 Most variables are numeric, some are categorical, boolean and date. 
 Variables like ProsperRating (Alpha) and IncomeRange can be ordered 
 factor variables with the following levels. 
