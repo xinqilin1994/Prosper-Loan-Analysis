@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The dataset of Prosper Loan contains 113,937 rows and 81 columns. 
+> The dataset of [Prosper Loan](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) contains 113,937 rows and 81 columns. 
 Most variables are numeric, some are categorical, boolean and date. 
 Variables like ProsperRating (Alpha) and IncomeRange can be ordered 
 factor variables with the following levels. 
